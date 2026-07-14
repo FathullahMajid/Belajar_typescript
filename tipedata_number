@@ -1,0 +1,35 @@
+let angka: number = 6.25;
+angka = 10.43;
+console.log(angka) //10.43;
+
+let saldo: number = 15000000
+saldo = 25000000
+console.log(saldo) //25000000
+
+let umur: number = 43;
+umur = 24;
+console.log(umur)
+
+let a: number = 10
+let b: number = 66
+let c: number = 31
+console.log(a+b-c)
+
+let h: number = -4;
+let i: number = -2;
+let j: number = 0;
+let k: number = 3;
+let l: number = 6;
+console.log(h+i+j+k+l);
+
+let jumlahSingkong: number = 16;
+let hargaSingkong: number = 3000;
+console.log(jumlahSingkong * hargaSingkong)
+
+let matematika: number = 94;
+let bIndo: number = 88;
+let IPA: number = 92;
+let IPS: number = 84;
+let PKN: number = 84;
+let agama: number = 90;
+console.log((matematika+bIndo+IPA+IPS+PKN+agama)/6)
